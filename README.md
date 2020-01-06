@@ -1,7 +1,6 @@
 # node-exceljs
 Sample code for reading modifying &amp; writing to an excel file.
 
-Pre-Requisites : 
-Nodejs must be installed.
-Run the following command for installing ExcelJS package - 
-npm i exceljs
+## Pre-Requisites
+1. Nodejs must be installed.
+2. After downloading the project, run _npm i exceljs_
